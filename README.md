@@ -6,19 +6,19 @@
 ### 👔 JOP EXPERIENCE
   
 #### 2025.03 - Present 
-Data Analyst & Data Engineer<br>
+Data Analyst & Data Engineer
 (Aone Performance Factory_Data Intelligence Team)
 
 #### 2018.12 - 2024.04 
-Accounting & Cash Flow handling<br>
+Accounting & Cash Flow handling
 (Jeunesse Global Korea_Finance Dept.)
 
 #### 2017.02 - 2018.11
-Business Support Staff<br>
+Business Support Staff
 (SPC Co., Ltd.)
 
 #### 2015.06 - 2015.08
-Business Support Contract Staff<br>
+Business Support Contract Staff
 (KTC Co., Ltd.)
 
 
@@ -74,9 +74,9 @@ Business Support Contract Staff<br>
   <a href="https://github.com/rena-data"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Github&logoColor=white"> 
     
   <br>
-  <a href=""><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
-  <a href=""><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white">
-  <a href=""><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+  <a href="https://www.linkedin.com/in/rena-data-analyst/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+  <a href="https://www.facebook.com/rena.jo2/"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white">
+  <a href="https://www.instagram.com/rn.jo2/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
     
   <br>
   
