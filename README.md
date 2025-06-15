@@ -6,19 +6,19 @@
 ### 👔 JOP EXPERIENCE
   
 #### 2025.03 - Present 
-Data Analyst & Data Engineer
+Data Analyst & Data Engineer<br>
 (Aone Performance Factory_Data Intelligence Team)
 
 #### 2018.12 - 2024.04 
-Accounting & Cash Flow handling
+Accounting & Cash Flow handling<br>
 (Jeunesse Global Korea_Finance Dept.)
 
 #### 2017.02 - 2018.11
-Business Support Staff
+Business Support Staff<br>
 (SPC Co., Ltd.)
 
 #### 2015.06 - 2015.08
-Business Support Contract Staff
+Business Support Contract Staff<br>
 (KTC Co., Ltd.)
 
 
