@@ -6,8 +6,8 @@
 ## 📈 GITHUB STATS (SUMMARY)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rena-data&show_icons=true&theme=transparent&count_private=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena-data&layout=compact&theme=transparent&hide=jupyter%20notebook" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=rena-data&show_icons=true&theme=transparent&count_private=true" width="35%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena-data&layout=compact&theme=transparent&hide=jupyter%20notebook" width="30%">
 </div>
 
 </div>
@@ -26,6 +26,7 @@
 | 2015.06 - 2015.08 | Business Support (Contract)    | KTC Co., Ltd.                                  |
 
 ---
+<div align="center">
 </div>
 
 ### 🧠 ABOUT ME
@@ -38,7 +39,7 @@
 </div>
 
 ---
-
+<div align="center">
 <details>
 <summary>🛠 TECH STACKS (Click to expand)</summary>
 
@@ -94,7 +95,8 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ## 🤝 KEEP IN TOUCH
 <a href="https://ldsjoy.tistory.com/"><img src="https://img.shields.io/badge/Blog-33FFCE?style=for-the-badge&logo=githubpages&logoColor=black"></a>
 <a href="mailto:ldsjoy@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
