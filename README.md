@@ -6,8 +6,8 @@
 ## 📈 GITHUB STATS (SUMMARY)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rena-data&show_icons=true&theme=transparent&count_private=true" width="40%"> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena-data&layout=compact&theme=transparent&hide=jupyter%20notebook" width="30%">
+  <img src="https://github-readme-stats.vercel.app/api?username=rena-data&show_icons=true&theme=transparent&count_private=true" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena-data&layout=compact&theme=transparent&hide=jupyter%20notebook" width="35%">
 </div>
 
 </div>
@@ -32,9 +32,9 @@
 ### 🧠 ABOUT ME
 
 `Data Analyst` · `Backend Developer`  
-📊 <br>
-🧩 <br>
-📌 <br>
+📊 Data-driven. Logic-bound. Vision-led <br>
+📈 Think deeply, build precisely <br>
+🎯 INTJ <br>
 
 </div>
 
