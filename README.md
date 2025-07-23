@@ -1,15 +1,12 @@
 <!-- HEADER -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!👋%20I%20AM%20RENA!&fontSize=44)
-
 <div align="center">
-
+  
 ## 📈 GITHUB STATS (SUMMARY)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rena-data&show_icons=true&theme=transparent&count_private=true" width="40%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena-data&layout=compact&theme=transparent&hide=jupyter%20notebook" width="35%">
-</div>
-
 </div>
 
 ---
@@ -25,7 +22,6 @@
 | 2017.02 - 2018.11 | Business Support Staff         | SPC Co., Ltd.                                  |
 | 2015.06 - 2015.08 | Business Support (Contract)    | KTC Co., Ltd.                                  |
 
----
 <div align="center">
 </div>
 
@@ -38,7 +34,6 @@
 
 </div>
 
----
 <div align="center">
 <details>
 <summary>🛠 TECH STACKS (Click to expand)</summary>
@@ -107,7 +102,5 @@
 <a href="https://www.instagram.com/rn.jo2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
 </div>
-
----
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
