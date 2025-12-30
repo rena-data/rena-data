@@ -1,17 +1,6 @@
 <!-- HEADER -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!👋%20I%20AM%20RENA!&fontSize=44)
 <div align="center">
-  
-## 📈 GITHUB STATS (SUMMARY)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rena-data&show_icons=true&theme=transparent&count_private=true" width="40%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rena-data&layout=compact&theme=transparent&hide=jupyter%20notebook" width="35%">
-</div>
-
----
-
-<div align="center">
 
 ### 💼 JOB EXPERIENCE
 
@@ -30,11 +19,8 @@
 `Data Analyst` · `Backend Developer`  
 📊 Data-driven. Logic-bound. Vision-led <br>
 📈 Think deeply, build precisely <br>
-🎯 INTJ <br>
 
 </div>
-
----
 
 <div align="center">
 <details>
@@ -82,7 +68,7 @@
 
 ---
 
-## 📊 GITHUB INSIGHTS (DETAIL)
+## 📊 GITHUB INSIGHTS
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rena-data&bg_color=fffff&color=708090&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
