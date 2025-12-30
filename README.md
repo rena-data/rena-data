@@ -17,7 +17,7 @@
 
 | Period         | Role                              | Organization                                   |
 |----------------|-----------------------------------|------------------------------------------------|
-| 2025.03 - Now  | Data Analyst & Engineer           | Aone Performance Factory - Data Intelligence   |
+| 2025.03 - 2025.12  | Analyst & Marketing Solutions | Aone Performance Factory - Data Intelligence   |
 | 2018.12 - 2024.04 | Accounting & Cash Flow         | Jeunesse Global Korea - Finance Dept.          |
 | 2017.02 - 2018.11 | Business Support Staff         | SPC Co., Ltd.                                  |
 | 2015.06 - 2015.08 | Business Support (Contract)    | KTC Co., Ltd.                                  |
@@ -47,8 +47,6 @@
 ### 📊 Data Analysis & EDA  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Openpyxl](https://img.shields.io/badge/Openpyxl-00B050?style=for-the-badge&logo=python&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 ### 🤖 Machine Learning / AI  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -57,10 +55,10 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 📈 Visualization / BI  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ### 🌐 Web & Framework  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -75,7 +73,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-1488C6?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### 🔧 Version Control  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
