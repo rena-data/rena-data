@@ -2,7 +2,37 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!👋%20I%20AM%20RENA!&fontSize=44)
 <div align="center">
 
-### 💼 JOB EXPERIENCE
+> 📊 **Data-driven. Logic-bound. Vision-led. 📈 Think deeply, build precisely.**
+
+비즈니스 프로세스와 데이터 흐름을 깊이 있게 이해하는 `Data Analyst` · `Backend Developer` **RENA**입니다.  
+**Python**과 **SQL**을 주 언어로 사용하며 <br>
+복잡한 데이터를 정제하여 의미 있는 비즈니스 가치를 도출하고 <br>
+이를 효율적인 백엔드 시스템으로 연결하는 데 강점이 있습니다.  
+단순한 수치 분석을 넘어 비즈니스의 성장 방향을 제시하는 솔루션을 지향합니다.
+
+<div align="left">
+  
+## 🧠 ABOUT ME
+### 💡 Core Competencies
+
+* **Data Intelligence**: 비즈니스 솔루션 수립을 위한 심화 데이터 분석 및 마케팅 성과 측정
+* **Machine Learning**: Scikit-learn, XGBoost, TensorFlow 기반의 예측 모델링 및 AI 구현
+* **Visual Analytics**: Tableau, Plotly 등을 활용한 직관적인 데이터 시각화 및 BI 구축
+* **Backend Development**: FastAPI, MySQL, PostgreSQL을 활용한 데이터 파이프라인 및 시스템 구축
+* **Business Operations**: 재무 및 경영 지원 경험을 바탕으로 한 실질적인 비즈니스 로직 이해
+
+### 🎯 Philosophy
+
+* **Think Deeply, Build Precisely**: 깊은 고민을 통해 정확한 결과물을 만듭니다.
+* **데이터 기반의 의사 결정**: 주관이 아닌 객관적 데이터로 비전을 제시합니다.
+* **효율적인 자동화**: 반복되는 프로세스를 도구를 통해 최적화합니다.
+* **비즈니스 가치 창출**: 기술은 비즈니스 문제를 해결할 때 가장 가치 있다고 믿습니다.
+
+<div align="left">
+</div>
+
+<details>
+<summary>💼 JOB EXPERIENCE (Click to expand)</summary>
 
 | Period         | Role                              | Organization                                   |
 |----------------|-----------------------------------|------------------------------------------------|
@@ -11,18 +41,10 @@
 | 2017.02 - 2018.11 | Business Support Staff         | SPC Co., Ltd.                                  |
 | 2015.06 - 2015.08 | Business Support (Contract)    | KTC Co., Ltd.                                  |
 
-<div align="center">
-</div>
-
-### 🧠 ABOUT ME
-
-`Data Analyst` · `Backend Developer`  
-📊 Data-driven. Logic-bound. Vision-led <br>
-📈 Think deeply, build precisely <br>
 
 </div>
+<div align="left">
 
-<div align="center">
 <details>
 <summary>🛠 TECH STACKS (Click to expand)</summary>
 
@@ -66,7 +88,7 @@
 
 </details>
 
----
+
 
 ## 📊 GITHUB INSIGHTS
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rena-data&bg_color=fffff&color=708090&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -74,17 +96,14 @@
 </div>
 
 ---
-<div align="center">
+<div align="left">
   
-## 🤝 KEEP IN TOUCH
-<a href="https://ldsjoy.tistory.com/"><img src="https://img.shields.io/badge/Blog-33FFCE?style=for-the-badge&logo=githubpages&logoColor=black"></a>
-<a href="mailto:ldsjoy@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-<a href="https://github.com/rena-data"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-<br>
-<a href="https://www.linkedin.com/in/rena-data-analyst/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-<a href="https://www.facebook.com/rena.jo2/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-<a href="https://www.instagram.com/rn.jo2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-
+### 🤝 KEEP IN TOUCH
+<div align="left">
+  <a href="mailto:ldsjoy@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+  <a href="https://github.com/rena-data"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rena-data-analyst/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+  <a href="https://ldsjoy.tistory.com/"><img src="https://img.shields.io/badge/Blog-33FFCE?style=for-the-badge&logo=githubpages&logoColor=black"></a>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
