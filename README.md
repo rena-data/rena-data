@@ -145,8 +145,8 @@
 ---
 
 ## 📊 GITHUB INSIGHTS
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rena-data&show_icons=true&theme=holi)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rena-data&layout=compact&theme=dark)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=rena-data&show_icons=true&theme=holi)](https://github.com/stats-organization/github-stats-extended)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=rena-data&layout=compact&theme=dark)
 <a href="https://github.com/rena-data">
   <picture>
     <source media="(prefers-color-scheme: dark)"
